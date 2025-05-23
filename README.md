@@ -17,7 +17,7 @@ A modular, real-time threat analysis tool built entirely in **Google Colab** usi
 `transformers`, `scapy`, `re`, `json`, `pyshark (optional)`, `nest_asyncio`, `requests`
 
 ## 🚀 Run This Project
-Open in Colab: [[Open In Colab]](https://colab.research.google.com/drive/1O7ySZzb2gf2cb24fuCxuI958X8sexBPo?usp=sharing))
+Open in Colab: [[Open In Colab]](https://colab.research.google.com/drive/1O7ySZzb2gf2cb24fuCxuI958X8sexBPo?usp=sharing)
 
 👨‍💻 About the Author
 Koushik Kanneti – Graduate Student | Electronics & Communication Engineer | Aspiring Data Scientist & Business Analyst
