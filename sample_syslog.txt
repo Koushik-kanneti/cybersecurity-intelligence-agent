@@ -1,0 +1,6 @@
+192.168.1.101 accessed http://example.com
+10.0.0.55 connected to 45.83.120.24 on port 443
+powershell.exe -nop -w hidden -enc aGVsbG8=
+User logged in from IP 8.8.8.8
+Suspicious file: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+cmd.exe /c whoami
